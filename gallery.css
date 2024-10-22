@@ -1,0 +1,26 @@
+.lin{
+    padding: 0 200px;
+    font-size: 30px;
+    
+}
+.line{
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+}
+.link{
+    text-decoration: none;
+    color: black;
+    
+}
+.link--active{
+    color: teal;
+    font: bold;
+}
+.line:hover{
+    text-decoration: underline;
+    
+}
+body{
+    background-color: rgb(33, 58, 58);
+}
